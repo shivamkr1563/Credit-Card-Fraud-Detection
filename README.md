@@ -1,6 +1,13 @@
 # 🔒 Cyber Fraud Detection Multi-Agent System
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)](https://credit-card-fraud-detection-dupffznutlafbxbwzlwnwd.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/shivamkr1563/Credit-Card-Fraud-Detection)
+[![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
+[![ML](https://img.shields.io/badge/ML-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)](https://scikit-learn.org/)
+
 A sophisticated AI-powered fraud detection system that leverages a multi-agent architecture to identify and classify fraudulent transactions in real-time. Built with Machine Learning and Streamlit for an interactive web interface.
+
+🚀 **[Try Live Demo](https://credit-card-fraud-detection-dupffznutlafbxbwzlwnwd.streamlit.app/)** | 📂 **[View Source Code](https://github.com/shivamkr1563/Credit-Card-Fraud-Detection)**
 
 ## 📄 Abstract
 
