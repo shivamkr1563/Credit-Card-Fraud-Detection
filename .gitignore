@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data files (large datasets)
+data/raw_transactions.csv
+*.csv
+
+# Allow sample datasets
+!data/sample_1000.csv
+
+# Models (optional - uncomment if you want to exclude trained models)
+# models/*.pkl
+
+# Logs
+*.log
+alerts_log.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
